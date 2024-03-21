@@ -3,7 +3,7 @@ import React from 'react';
 import { Container } from '@mui/material';
 
 import bg from '../components/bg.gif'
-const Index = () => {
+const Home = () => {
     return (
   
     <Container >
@@ -30,4 +30,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Home;
